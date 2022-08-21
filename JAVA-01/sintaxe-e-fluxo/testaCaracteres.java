@@ -1,4 +1,4 @@
-public class testaCaracteres {
+public class TestaCaracteres {
     public static void main(String[] args)
     {
         char letra = 'a';//um caracter

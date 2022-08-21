@@ -1,4 +1,4 @@
-public class testaEscopo {
+public class TestaEscopo {
     public static void main(String[] args)
     {
         System.out.println("testando condicionais");

@@ -1,4 +1,4 @@
-public class Switch {
+public class TestaSwitch {
     public static void main(String[] args)
     {
         int mes = 10;
